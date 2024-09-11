@@ -1,6 +1,6 @@
 ﻿# classrepository
 
-# Progression
+## Progression
 Here are the classes of this year:
 - classname  |  teacher  |  duration  |  state  |  progression  
 - Projet de Genie Logiciel  |  Sédric KOUAGNI  | 30h  |  in progress  |  ----------
