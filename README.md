@@ -8,7 +8,7 @@ Here are the classes of this year:
 - Méthode de test et de validation de logiciel  |  Sédrick KOUAGNI  |  30h  |  not started  |  *---------
 - Réseaux mobiles  |  ZAMBLE RAOUL  |  --  |  not started  |  ----------  |
 - Mathématiques discrètes en informatique avancée  |  GNAMENE N'Tcho Jean  |  --  |  not started  |  ----------  
-- Bases de données & dev App Web  |  Bandaman Jean-Titus  | 30h  |  not started  |  ----------
+- Bases de données & dev App Web  |  Bandaman Jean-Titus  | 30h  |  in progress  |  *---------
 - Méthodes de développement logiciel - méthode Agile (SCRUM)  |  Sédric Kouagni  |  --  |  not started  |  ----------
 - Projet de réseaux télécoms  |  Jules ALLANI  |  --  |  not started  |  ----------
 - Projet scientifique  |  René BADO  |  30h  |  not started  |  ?---------
