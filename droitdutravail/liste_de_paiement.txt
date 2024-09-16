@@ -1,4 +1,20 @@
-Ayekpa grace : payé | 3500fcfa
-MALIK Dominique : payé | 3500fcfa
-BROU Kouame Chrys David : non payé | 0fcfa
-ADIATU Habeeb Adeshina : payé | 3500fcfa
+Ayekpa grace : payé | 3500fcfa | pris
+MALIK Dominique : payé | 3500fcfa | pris
+BROU Kouame Chrys David : payé | 3500fcfa | pris
+ADIATU Habeeb Adeshina : payé | 3500fcfa | pris
+TEHUA Anselm : -- | -- | pris
+VRY Aka: payé | 3500fcfa
+ANE Henri Joël: payé | 3500fcfa
+Kadidjatou Compaoré: non payé | 0fcfa | pris
+OHOUCOU Emmanuel: payé | 3500fcfa | pris
+KOUAME Benoît: non payé | 0fcfa | pris
+Keita Mohamed Depassy: non payé | 0fcfa | pris
+Ouattara Abdoul: non payé | 0fcfa | pris
+DALLI Kevin: payé | 3500fcfa | pris
+N'GATTA Kamenan: payé | 3500fcfa | pris
+ZOUEGNA Othniel: payé | 3500fcfa | pris
+Teya Ama Phoebe: payé | 3500fcfa | pris
+
+
+_____________________________________________________________
+total actuel: 38500 fcfa | total: 11/29
