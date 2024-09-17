@@ -14,10 +14,10 @@ Here are the classes of this year:
 - Projet scientifique  |  René BADO  |  30h  |  not started  |  ?*--------
 - droit du travail  |  KONAN KOFFI Eric  |  18h  |  in progress  |  **--------
 - technique d'expression française  |  Jean-Baptiste RIGAUD |  30h  |  not started  |  ?----------
-- entrepreneurial Marketing  |  KOUASSI Roland Raoul  |  21h  |  in progress  |  *---------
+- entrepreneurial Marketing  |  KOUASSI Roland Raoul  |  21h  |  in progress  |  **--------
 - Méthodologie de rédaction de mémoire professionnel  |  KOUASSI Roland Raoul  |  --  | not started  |  ----------
 
 ### Dépendance
 #### Bases de données & dev App Web
 - Visual studio 2022 (ASP.Net and web développement, .Net Desktop développement) url: https://visualstudio.microsoft.com/fr/vs/
-- SQLServer 20
+- SQLServer 20 url: https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads
