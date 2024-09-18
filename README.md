@@ -20,4 +20,6 @@ Here are the classes of this year:
 ### Dépendance
 #### Bases de données & dev App Web
 - Visual studio 2022 (ASP.Net and web développement, .Net Desktop développement) url: https://visualstudio.microsoft.com/fr/vs/
+- A installer dans le visual studio installer: ASP.NET and web development, .NET desktop development
+- pour l'application web, dépendance des nugets: Microsoft.EntityFrameworkCore.SqlServer,Microsoft.EntityFrameworkCore,Microsoft.EntityFrameworkCore.Tools,Microsoft.EntityFrameworkCore.Design
 - SQLServer 20 url: https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads
