@@ -26,7 +26,8 @@ Here are the classes of this year:
 
 ## Exercice
 ### Méthode de test et de validation de logiciel
-Faire le diagramme de classe, de cas d'utilisation, de séquence et d'activité de l'énoncé précédent sur le site des annonceurs (à faire avant le 19/09/2024 13h30)
+Faire le diagramme de classe, de cas d'utilisation, de séquence et d'activité de l'énoncé précédent sur le site des annonceurs (à faire avant le 26/09/2024)
+Projet flask: Corriger les erreurs et debugguer le projet flask qui se trouve sur ce github: https://github.com/Sedrickgael/Python_Testing. (à faire avant le lundi 23/09/2024) nb: chaque bug corrigé correspond à une branch qui sera merger  après validation. Il doit y avoir au minimum 20 commits.
 
 ### entrepreneurial Marketing
 Proposer un produit qui est New versions of existing products, incremental innovation, radical innovation, sustaining radical innovation, disruptive radical innovation (à faire avant le 24/09/2024 et donné le 17/09/2024)
