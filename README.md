@@ -13,7 +13,7 @@ Here are the classes of this year:
 - Projet de réseaux télécoms  |  Jules ALLANI  |  --  |  not started  |  ----------
 - Projet scientifique  |  René BADO  |  30h  |  not started  |  ?*--------
 - droit du travail  |  KONAN KOFFI Eric  |  18h  |  in progress  |  **--------
-- technique d'expression française  |  Jean-Baptiste RIGAUD |  30h  |  not started  |  ?----------
+- technique d'expression française  |  Jean-Baptiste RIGAUD |  30h  |  not started  |  ?*---------
 - entrepreneurial Marketing  |  KOUASSI Roland Raoul  |  21h  |  in progress  |  **--------
 - Méthodologie de rédaction de mémoire professionnel  |  KOUASSI Roland Raoul  |  --  | not started  |  ----------
 
@@ -29,4 +29,4 @@ Here are the classes of this year:
 Faire le diagramme de classe, de cas d'utilisation, de séquence et d'activité de l'énoncé précédent sur le site des annonceurs (à faire avant le 19/09/2024 13h30)
 
 ### entrepreneurial Marketing
-Proposer un produit qui est New versions of existing products, incremental innovation, radical innovation, sustaining radical innovation, disruptive radical innovation
+Proposer un produit qui est New versions of existing products, incremental innovation, radical innovation, sustaining radical innovation, disruptive radical innovation (à faire avant le 24/09/2024 et donné le 17/09/2024)
