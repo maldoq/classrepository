@@ -5,7 +5,7 @@ Here are the classes of this year:
 - classname  |  teacher  |  duration  |  state  |  progression  
 - Projet de Genie Logiciel  |  Sédric KOUAGNI  | 30h  |  in progress  |  *---------
 - Sécurité informatique  |  Beugré Jacques TANOH  |  --  |  not started  |  ----------
-- Méthode de test et de validation de logiciel  |  Sédrick KOUAGNI  |  30h  |  not started  |  **--------
+- Méthode de test et de validation de logiciel  |  Sédrick KOUAGNI  |  30h  |  not started  |  ***-------
 - Réseaux mobiles  |  ZAMBLE RAOUL  |  --  |  not started  |  ----------  |
 - Mathématiques discrètes en informatique avancée  |  GNAMENE N'Tcho Jean  |  --  |  not started  |  ----------  
 - Bases de données & dev App Web  |  Bandaman Jean-Titus  | 30h  |  in progress  |  ***-------
