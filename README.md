@@ -17,9 +17,16 @@ Here are the classes of this year:
 - entrepreneurial Marketing  |  KOUASSI Roland Raoul  |  21h  |  in progress  |  **--------
 - Méthodologie de rédaction de mémoire professionnel  |  KOUASSI Roland Raoul  |  --  | not started  |  ----------
 
-### Dépendance
-#### Bases de données & dev App Web
+## Dépendance
+### Bases de données & dev App Web
 - Visual studio 2022 (ASP.Net and web développement, .Net Desktop développement) url: https://visualstudio.microsoft.com/fr/vs/
 - A installer dans le visual studio installer: ASP.NET and web development, .NET desktop development
 - pour l'application web, dépendance des nugets: Microsoft.EntityFrameworkCore.SqlServer,Microsoft.EntityFrameworkCore,Microsoft.EntityFrameworkCore.Tools,Microsoft.EntityFrameworkCore.Design
 - SQLServer 20 url: https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads
+
+## Exercice
+### Méthode de test et de validation de logiciel
+Faire le diagramme de classe, de cas d'utilisation, de séquence et d'activité de l'énoncé précédent sur le site des annonceurs (à faire avant le 19/09/2024 13h30)
+
+### entrepreneurial Marketing
+Proposer un produit qui est New versions of existing products, incremental innovation, radical innovation, sustaining radical innovation, disruptive radical innovation
