@@ -15,8 +15,8 @@ N'GATTA Kamenan: payé | 3500fcfa | pris
 ZOUEGNA Othniel: payé | 3500fcfa | pris
 Teya Ama Phoebe: payé | 3500fcfa | non pris
 Sanogo Oumar Bassamori: payé | 3500fcfa | non pris
-Djédji Franck Armand: payé | 3500fcfa | non pris
+Djédji Franck Armand: non payé | 0fcfa | non pris
 
 
 _____________________________________________________________
-total actuel: 49000 fcfa | total: 14/29 | payé: 35000fcfa | reste: 14000fcfa
+total actuel: 45500 fcfa | total: 14/29 | payé: 35000fcfa | reste: 10500fcfa
