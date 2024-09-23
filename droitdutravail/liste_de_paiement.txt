@@ -13,10 +13,14 @@ Ouattara Abdoul: payé | 3500fcfa | pris
 DALLI Kevin: payé | 3500fcfa | pris
 N'GATTA Kamenan: payé | 3500fcfa | pris
 ZOUEGNA Othniel: payé | 3500fcfa | pris
-Teya Ama Phoebe: payé | 3500fcfa | non pris
+Teya Ama Phoebe: payé | 3500fcfa | pris
 Sanogo Oumar Bassamori: payé | 3500fcfa | non pris
-Djédji Franck Armand: non payé | 0fcfa | non pris
+Djédji Franck Armand: payé | 3500fcfa | pris
+Brou Guy François: non payé | 0fcfa | pris
+Kamagate Salamata: non payé | 0fcfa | pris
+Assemien: non payé | 0fcfa |  pris
+Gnahore Wilfried: non payé | 0fcfa | pris
 
 
 _____________________________________________________________
-total actuel: 45500 fcfa | total: 14/29 | payé: 35000fcfa | reste: 10500fcfa
+total actuel: 49000 fcfa | total: 14/29 | payé: 35000fcfa | reste: 14000fcfa
