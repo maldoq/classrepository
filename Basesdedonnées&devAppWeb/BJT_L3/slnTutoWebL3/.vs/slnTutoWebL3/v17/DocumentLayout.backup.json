@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zenith\\source\\repos\\slnTutoWebL3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934020DE-1862-47D7-8418-42D9997031AC}|TutoWebAspL3\\TutoWebAspL3.csproj|c:\\users\\zenith\\source\\repos\\slntutowebl3\\tutowebaspl3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934020DE-1862-47D7-8418-42D9997031AC}|TutoWebAspL3\\TutoWebAspL3.csproj|solutionrelative:tutowebaspl3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934020DE-1862-47D7-8418-42D9997031AC}|TutoWebAspL3\\TutoWebAspL3.csproj|c:\\users\\zenith\\source\\repos\\slntutowebl3\\tutowebaspl3\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934020DE-1862-47D7-8418-42D9997031AC}|TutoWebAspL3\\TutoWebAspL3.csproj|solutionrelative:tutowebaspl3\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934020DE-1862-47D7-8418-42D9997031AC}|TutoWebAspL3\\TutoWebAspL3.csproj|c:\\users\\zenith\\source\\repos\\slntutowebl3\\tutowebaspl3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934020DE-1862-47D7-8418-42D9997031AC}|TutoWebAspL3\\TutoWebAspL3.csproj|solutionrelative:tutowebaspl3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934020DE-1862-47D7-8418-42D9997031AC}|TutoWebAspL3\\TutoWebAspL3.csproj|c:\\users\\zenith\\source\\repos\\slntutowebl3\\tutowebaspl3\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934020DE-1862-47D7-8418-42D9997031AC}|TutoWebAspL3\\TutoWebAspL3.csproj|solutionrelative:tutowebaspl3\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 383,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenith\\source\\repos\\slnTutoWebL3\\TutoWebAspL3\\Program.cs",
+              "RelativeDocumentMoniker": "TutoWebAspL3\\Program.cs",
+              "ToolTip": "C:\\Users\\zenith\\source\\repos\\slnTutoWebL3\\TutoWebAspL3\\Program.cs",
+              "RelativeToolTip": "TutoWebAspL3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T05:22:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EtudiantController.cs",
+              "DocumentMoniker": "C:\\Users\\zenith\\source\\repos\\slnTutoWebL3\\TutoWebAspL3\\Controllers\\EtudiantController.cs",
+              "RelativeDocumentMoniker": "TutoWebAspL3\\Controllers\\EtudiantController.cs",
+              "ToolTip": "C:\\Users\\zenith\\source\\repos\\slnTutoWebL3\\TutoWebAspL3\\Controllers\\EtudiantController.cs",
+              "RelativeToolTip": "TutoWebAspL3\\Controllers\\EtudiantController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:18:01.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zenith\\source\\repos\\slnTutoWebL3\\TutoWebAspL3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TutoWebAspL3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zenith\\source\\repos\\slnTutoWebL3\\TutoWebAspL3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TutoWebAspL3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:17:57.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\zenith\\source\\repos\\slnTutoWebL3\\TutoWebAspL3\\Models\\Etudiant.cs",
+              "RelativeDocumentMoniker": "TutoWebAspL3\\Models\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\zenith\\source\\repos\\slnTutoWebL3\\TutoWebAspL3\\Models\\Etudiant.cs",
+              "RelativeToolTip": "TutoWebAspL3\\Models\\Etudiant.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:27:19.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

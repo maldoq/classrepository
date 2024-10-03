@@ -1,26 +1,36 @@
-Ayekpa grace : payé | 3500fcfa | pris
-MALIK Dominique : payé | 3500fcfa | pris
-BROU Kouame Chrys David : payé | 3500fcfa | pris
-ADIATU Habeeb Adeshina : payé | 3500fcfa | pris
-TEHUA Anselm : non payé | 0fcfa | pris
-VRY Aka: payé | 3500fcfa | pris
-ANE Henri Joël: payé | 3500fcfa
-Kadidjatou Compaoré: non payé | 0fcfa | pris
-OHOUCOU Emmanuel: payé | 3500fcfa | pris
-KOUAME Benoît: non payé | 0fcfa | pris
-Keita Mohamed Depassy: non payé | 0fcfa | pris
-Ouattara Abdoul: payé | 3500fcfa | pris
-DALLI Kevin: payé | 3500fcfa | pris
-N'GATTA Kamenan: payé | 3500fcfa | pris
-ZOUEGNA Othniel: payé | 3500fcfa | pris
-Teya Ama Phoebe: payé | 3500fcfa | pris
-Sanogo Oumar Bassamori: payé | 3500fcfa | non pris
-Djédji Franck Armand: payé | 3500fcfa | pris
-Brou Guy François: non payé | 0fcfa | pris
-Kamagate Salamata: non payé | 0fcfa | pris
-Assemien: non payé | 0fcfa |  pris
-Gnahore Wilfried: non payé | 0fcfa | pris
+Ayekpa grace : payé | 3500fcfa | pris v
+MALIK Dominique : payé | 3500fcfa | pris v
+BROU Kouame Chrys David : payé | 3500fcfa | pris v
+ADIATU Habeeb Adeshina : payé | 3500fcfa | pris v
+TEHUA Anselm : payé | 3500fcfa | pris v
+VRY Aka: payé | 3500fcfa | pris v
+ANE Henri Joël: payé | 3500fcfa | pris v
+Kadidjatou Compaoré: payé | 3500fcfa | pris v
+OHOUCOU Emmanuel: payé | 3500fcfa | pris v
+Keita Mohamed Depassy: payé | 3500fcfa | pris v -
+Ouattara Abdoul: payé | 3500fcfa | pris v
+DALLI Kevin: payé | 3500fcfa | pris v
+N'GATTA Kamenan: payé | 3500fcfa | pris v
+ZOUEGNA Othniel: payé | 3500fcfa | pris v
+Teya Ama Phoebe: payé | 3500fcfa | pris v
+Sanogo Oumar Bassamori: payé | 3500fcfa | non pris e
+Djédji Franck Armand: payé | 3500fcfa | pris v
+Kamagate Salamata: payé | 3500fcfa | pris v -
+Gnahore Wilfried: payé | 3500fcfa | pris v -
+
+Assemien: non payé | 2500fcfa |  pris f j
+Abby Djomo: non payé | 0fcfa | pris f
+Diomande Azziz: non payé | 0fcfa | pris f
+Djebeta Steeve: non payé | 0fcfa | non pris f
+Elogne Tano Brefera: non payé | 0fcfa | pris f
+Koloma Fadel: non payé | 0fcfa | pris f
+Goue Yélémain: non payé | 0fcfa | pris f
+Ohoucou Emmanuel: non payé | 0fcfa | pris f
+KOUAME Benoît: non payé | 0fcfa | pris f i
+Brou Guy François: non payé | 0fcfa | pris f lundi
+
+Adamou Shafahatou: non payé | 0fcfa | non pris f
 
 
 _____________________________________________________________
-total actuel: 49000 fcfa | total: 14/29 | payé: 35000fcfa | reste: 14000fcfa
+total actuel: 65500 fcfa | total: 19/29 -1000fcfa | payé: 65500fcfa | reste: 0000fcfa

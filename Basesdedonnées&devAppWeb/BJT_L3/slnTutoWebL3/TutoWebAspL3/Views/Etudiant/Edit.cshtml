@@ -1,0 +1,101 @@
+﻿@model EtudiantDto
+@{
+}
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-3">
+        <h2 class="text-center mb-5">Mise à jour d'étudiant</h2>
+        <form method="post" enctype="multipart/form-data">
+            <div class="row mb-3">
+                <div class="offset-sm-11 col-sm-1">
+                    <img src="/Images/@ViewData["cheminImage"]" width="100" />
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">n° Id étudiant</label>
+                <div class="col-sm-8">
+                    <input class="form-control-plaintext" value="@ViewData["EtudiantId"]" />
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Nom</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="etuNom" />
+                    <span asp-validation-for="etuNom" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Prénoms</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="etuPrenom" />
+                    <span asp-validation-for="etuPrenom" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Sexe</label>
+                <div class="col-sm-8">
+                    <select class="form-select" asp-for="etuSexe">
+                        <option value="NC">INCONNU</option>
+                        <option value="M">MASCULIN</option>
+                        <option value="F">FEMININ</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Date naissance</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="etuDateNaiss" />
+                    <span asp-validation-for="etuDateNaiss" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Email</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="etuEmail" />
+                    <span asp-validation-for="etuEmail" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Cotisation</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="etuCotisation" />
+                    <span asp-validation-for="etuCotisation" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Categorie</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="CategorieId" />
+                    <span asp-validation-for="CategorieId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Commune</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="CommuneId" />
+                    <span asp-validation-for="CommuneId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="offset-sm-4 col-sm-8">
+                    <img src="/Images/@ViewData["cheminImage"]" width="100" />
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Photo faciale</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="ImageFile" />
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="offset-sm-4 col-sm-4 d-grid">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-outline-primary" asp-controller="Etudiant"
+                       asp-action="Index" role="button">Cancel</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TutoWebAspL3.props" />
+</Project>

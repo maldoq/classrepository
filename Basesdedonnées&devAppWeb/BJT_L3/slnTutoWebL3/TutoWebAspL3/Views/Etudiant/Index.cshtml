@@ -1,0 +1,42 @@
+﻿@model List<Etudiant>
+@{
+}
+<h2 class="text-center mb-5">Liste des Etudiants</h2>
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-warning" asp-controller="Etudiant" asp-action="Create">Ajouter Etudiant</a>
+    </div>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>NOM</th>
+            <th>PRENOM</th>
+            <th>DATE NAISS</th>
+            <th>COTISATION</th>
+            <th>Photo</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var unEtudiant in Model)
+        {
+            <tr>
+                <td>@unEtudiant.EtudiantId</td>
+                <td>@unEtudiant.etuNom</td>
+                <td>@unEtudiant.etuPrenom</td>
+                <td>@unEtudiant.etuDateNaiss</td>
+                <td>@unEtudiant.etuCotisation</td>
+                <td><img src="/Images/@unEtudiant.cheminImage" width=60/></td>
+
+                <td style="white-space:nowrap">
+                    <a class="btn btn-success btn-sm" asp-controller="Etudiant" asp-action="Edit" 
+                            asp-route-id="@unEtudiant.EtudiantId">Modifier</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Etudiant" asp-action="Delete"
+                       asp-route-id="@unEtudiant.EtudiantId" onclick="return confirm('Voulez-vous vraiment supprimer?')">Supprimer</a>                   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
